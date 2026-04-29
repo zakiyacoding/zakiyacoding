@@ -1,11 +1,32 @@
-## Hi there 👋
+👋 Hi, I’m a Frontend Developer
 
-**zakiyacoding/zakiyacoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I’m passionate about building responsive and user-friendly web applications.
 
-Here are some ideas to get you started:
+🌱 Currently Learning:
 
-- 🔭 I’m currently working on web development ...
-- 🌱 I’m currently learning HTML, CSS AND JavaScript ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: @z4zakiya@gmail.com 
+Advanced JavaScript
+React
+Working with APIs
+
+🛠 Tech Stack:
+
+HTML
+CSS
+JavaScript
+Git & GitHub
+
+✨ Skills:
+
+Responsive Web Design
+UI/UX Basics
+DOM Manipulation
+
+📫 Connect with me:
+
+Email: z4zakiya@gmail.com
+LinkedIn: https://www.linkedin.com/in/zakiya-tasneem
+
+🤝 Open to:
+
+Internships
+Collaboration on frontend projects
