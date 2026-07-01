@@ -1,4 +1,4 @@
-👋 Hi, I’m a Frontend Developer
+👋 Hi, I’m a Full stack Developer
 
 💻 I’m passionate about building responsive and user-friendly web applications.
 
@@ -13,6 +13,9 @@ Working with APIs
 HTML
 CSS
 JavaScript
+Sql
+Mysql
+Php
 Git & GitHub
 
 ✨ Skills:
