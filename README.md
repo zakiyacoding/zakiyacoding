@@ -1,4 +1,4 @@
-👋 Hi, I’m a Full stack Developer
+👋 Hi, I’m a Full Stack Developer
 
 💻 I’m passionate about building responsive and user-friendly web applications.
 
